@@ -60,27 +60,5 @@ Software
 
 ## Authors
 
-* **Wan Zhen** - [thecodingdog](https://github.com/thecodingdog)
-* **Shumin** - [shumin13](https://github.com/shumin13)
+* **IsaiGalarza** - [thecodingdog](https://github.com/IsaiGalarza)
 
-
-## Acknowledgments
-
-* To enable direct SMS (not just re-direct you to the SMS function with pre-filled msg)
-https://github.com/rhaker/react-native-sms-android
-
-* React-navigation that gives you the router and nav bar
-https://github.com/spencercarli/getting-started-react-navigation/blob/master/app/config/router.js
-
-* React-native maps that gives you the ability to see google maps based on supplied coordinates
-https://github.com/airbnb/react-native-maps
-
-* Incorporating geolocation (native) to pinpoint current location
-https://medium.com/@kswanie21/react-native-google-map-with-react-native-maps-572e3d3eee14
-
-* Deployment to HockeyApp for beta testing
-https://github.com/benloopcompany/react-native-hockeyapp
-
-* Tutorials for IOT
-http://www.instructables.com/id/How-to-Receive-Arduino-Sensor-Data-on-Your-Android/
-https://learn.sparkfun.com/tutorials/piezo-vibration-sensor-hookup-guide
